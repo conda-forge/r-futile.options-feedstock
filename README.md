@@ -1,11 +1,11 @@
-About r-futile.options
-======================
+About r-futile.options-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-futile.options-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=futile.options
 
 Package license: LGPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-futile.options-feedstock/blob/main/LICENSE.txt)
 
 Summary: A scoped options management framework. Used in other packages.
 
